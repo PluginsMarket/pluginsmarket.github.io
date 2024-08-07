@@ -68,7 +68,7 @@ a {
     font-weight: 500;
     padding: 15px 30px;
     border: none;
-    border-radius: 8px;
+    border-radius: 68px;
     cursor: pointer;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
@@ -87,7 +87,7 @@ a {
     font-weight: 500;
     padding: 15px 30px;
     border: none;
-    border-radius: 8px;
+    border-radius: 68px;
     cursor: pointer;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
